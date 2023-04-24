@@ -1,0 +1,166 @@
+/* @media only screen and (max-width:1449px)  {
+    .text_3{
+        left: 1100px;
+    }
+
+}
+  @media only screen and (max-width:1474px)  {
+
+  
+ 
+        
+
+.text_3 {
+   
+    left: 1060px;
+
+      
+} }
+
+@media only screen and (max-width:1410px) {
+    .text_3 {
+        left: 1070px;
+    }
+    .text_2 {
+        left: 600px;
+    }
+}
+    
+
+@media only screen and (max-width:1398px) {
+    .text_3{
+        left: 1010px;
+    }
+    .text_2{
+        left: 600px;
+    }
+}
+@media only screen and (max-width:1390px){
+    .diva{
+        padding-left:1240px;
+    }
+    
+}
+@media only screen and (max-width:1370px){
+    .div_car2 p{
+        left: 800px;
+    }
+    .div_canoening p{
+        left: 800px;
+    }
+}
+@media only screen and (max-width:1348px){
+.img{
+    margin-left: -50px;
+}
+.text_2{
+    left: 560px;
+}
+.text{
+    left: 70px;
+}
+}  
+/* @media (max-width: 1070px){
+    .sec2{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 690px){
+    .sec1_h1{
+        font-size: 50px;
+        width: 450px;
+        margin-lef: 10px;
+    }
+    li{
+        display: none;
+    }
+    .bg{
+        display: block;
+    }
+}
+@media (max-width: 540px){
+    .sec1_h1{
+        width: 400px;
+    }
+}
+@media (max-width: 500px){
+    .sec1_h1{
+        width: 300px;
+        margin-right: 0;
+        margin-left: 20px;
+    }
+}
+@media (max-width: 375px){
+    .sec1_h1{
+        font-size: 40px;
+    }
+} */ 
+
+
+
+
+
+@media  only screen and (max-width: 1476px){
+    .text_3{
+        left: 1130px;
+    }
+}
+@media  only screen and (max-width: 1430px){
+    .text_3{
+        left: 1100px;
+    }
+}
+@media  only screen and (max-width: 1398px){
+    .text_3{
+        left: 1040px;
+    }
+    .text_2{
+        left: 470px;
+    }
+}
+@media  only screen and (max-width: 1395px){
+    .diva{
+        left: -60px;
+    }
+}
+@media  only screen and (max-width: 1345px){
+    .text{
+        left: 40px;
+    }
+    .img{
+        margin-left: -180px;
+    }
+    .text_2{
+
+    }
+    .text_3{
+        left: 830px;
+    }
+    .diva{
+        margin-left: -280px;
+    }
+}
+@media  only screen and (max-width: 1360px){
+    .car_2 img{
+        left: 530px;
+    }
+    .div_car2 p{
+        left: 620px;
+    }
+    .div_car2 h3{
+        left: 680px;
+    }
+    .div_canoening h3{
+        left: 680px;
+    }
+    
+    .canoening img{
+        left: 530px;
+    }
+    .div_canoening p{
+        left: 620px;
+    }
+}
+@media  only screen and (max-width: 1320px){
+
+} */
